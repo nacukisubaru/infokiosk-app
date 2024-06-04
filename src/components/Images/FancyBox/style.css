@@ -1,0 +1,13 @@
+.wrapper-info {
+    display: flex;
+    justify-content: space-between;
+}
+
+.info-title {
+    margin-left: 37px;
+}
+
+.info-detail {
+    display: flex;
+    margin-right: 19px;
+}

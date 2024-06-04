@@ -1,0 +1,1 @@
+export const domain = window.TEST_ENVIROMENT ? "https://preprod10.visitsochi.uniqtripsoft.ru" : "https://visit-sochi.com";
